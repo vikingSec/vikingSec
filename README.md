@@ -1,4 +1,4 @@
-### Hi there, it's Mitch/valhalla_dev/viking_sec 👋
+## Hi there, it's Mitch/valhalla_dev/viking_sec 👋
 
 I'm a software developer, security/OSINT researcher, content creator and wannabe FOSS contributor.
 
