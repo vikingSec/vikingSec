@@ -2,8 +2,6 @@
 
 I'm a software developer, security/OSINT researcher, content creator and wannabe FOSS contributor.
 
-* ⏯️[YouTube](https://www.youtube.com/channel/UCSXxklOmlUOJfjzOkKM07gg)
-
 * 🗨️[BlueSky](https://bsky.app/profile/valhallaresearch.net)
 
 * ✍️[Blog](https://valhallaresearch.net)
