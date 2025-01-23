@@ -2,12 +2,6 @@
 
 I'm a software developer, security/OSINT researcher, content creator and wannabe FOSS contributor.
 
-* 🗨️[BlueSky](https://bsky.app/profile/valhallaresearch.net)
-
-* ✍️[Blog](https://valhallaresearch.net)
-
-* 💻[Contact Me](mailto:mitch@secresearch.io)
-
 ### What I'm currently working on...
 #### [GrabbrApp](https://grabbrapp.io) (Closed Source)
 GrabbrApp is a SaaS application that allows security and OSINT researchers to research malicious infrastructure securely.
